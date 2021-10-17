@@ -1,10 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rohit Tewari</h1>
-<h3 align="center">I’m highly interested in programming, developing projects and collaborating with such more developers.</h3>
+<h4 align="center"> I love ♥ open source. I contribute to things as I come across issues that I think other people might struggle with.</h4>
 <br>
 
 <img align="right" height="300" width="425" alt="" src="https://raw.githubusercontent.com/rtewari056/rtewari056/master/coder.gif" />
 
+### About Me
+
+- 😄 Pronouns: he/him
+
 - 💻 I use daily `.js`, `.html`, `.css`, `.cpp`, `.py`
+
+- 🌐 I Love to Build Web Applications
+
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 
