@@ -2,6 +2,8 @@
 <h3 align="center">I’m highly interested in programming, developing projects and collaborating with such more developers.</h3>
 <br>
 
+<img align="right" height="300" width="425" alt="" src="https://raw.githubusercontent.com/rtewari056/rtewari056/master/coder.gif" />
+
 - 💻 I use daily `.js`, `.html`, `.css`, `.cpp`, `.py`
 
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
