@@ -10,13 +10,13 @@
 
 - 💻 I use daily `.js`, `.html`, `.css`, `.cpp`, `.py`
 
-- 🌐 I Love to Build Web Applications
+- 🌐 I Love to Build Web Applications.
 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects and learning full stack web development.
 
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 💼 I’m pursuing a Bachelor's degree in Information Technology.
 
-- 🌱 Learning all about **Open Source**
+- 🌱 Learning all about **Open Source**.
 
 - 📫 Please email via **rtewari056@gmail.com** to reach me.
 
@@ -24,9 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rtewari056" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rtewari056"/></a>
-<a href="https://twitter.com/rtewari056" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="rtewari056"/></a>
-<a href="https://www.instagram.com/rtewari056/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rtewari056"/></a>
+<a href="https://linkedin.com/in/rtewari056" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rtewari056"/></a>
+<a href="https://twitter.com/rtewari056" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="rtewari056"/></a>
 </p>
 
 ## ⚡ Languages and Tools:
