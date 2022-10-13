@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Tewari</h1>
-[![@rtewari056's Holopin board](https://holopin.me/rtewari056)](https://holopin.io/@rtewari056)
+
 <h4 align="center"> I love ♥ open source. I contribute to things as I come across issues that I think other people might struggle with.</h4>
 <br>
 
@@ -11,17 +11,16 @@
 
 - 💻 I use daily `.js`, `.html`, `.css`, `.cpp`, `.py`
 
-- 🌐 I Love to Build Web Applications.
-
-- 🥅 2022 Goals: Contribute more to Open Source projects and learning full stack web development.
-
-- 💼 I’m pursuing a Bachelor's degree in Information Technology.
-
-- 🌱 Learning all about **Open Source**.
+- 🌐 I Love to Build Web Applications using React⚛️ and Node🚀.
 
 - 📫 Please email via **rtewari056@gmail.com** to reach me.
 
 - 📝 See my [Resume](https://drive.google.com/file/d/1GAxqGnp0-Bj1yeTC8EV2TDWX98GZEd0i/view) to get more info.
+
+<br>
+
+## 🥇 My Holopin Badges From HACKTOBERFEST
+[![@rtewari056's Holopin board](https://holopin.me/rtewari056)](https://holopin.io/@rtewari056)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
