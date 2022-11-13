@@ -63,9 +63,10 @@
 
 |Project Name|Description|Link|
 |------------|-----------|----|
-|[Chat App](https://github.com/rtewari056/chat-app)|A chat app built using MERN stack.|Under development|
+|[BitChat](https://github.com/rtewari056/bitchat)|A chat app built using MERN stack.|Under development|
 |[Invoice Generator](https://github.com/rtewari056/invoice-generator)|Create Beautifully Designed Invoice that includes all of the necessary details for clean, consistent, and accurate billing practices straight from your web browser.|Under development|
 |[Portfolio Website](https://github.com/rtewari056/portfolio-website)|My portfolio website built using React JS for frontend and Sanity for backend.|Under development|
+|[EasyShare](https://github.com/rtewari056/easyshare)|File sharing web app with drag & drop.|Under development|
 
 <br>
 
