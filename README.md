@@ -63,10 +63,10 @@
 
 |Project Name|Description|Link|
 |------------|-----------|----|
-|[BitChat](https://github.com/rtewari056/bitchat)|A chat app built using MERN stack.|Under development|
+|[BitChat](https://github.com/rtewari056/bitchat)|A chat app built using MERN stack.|[Click Here](https://bitchat.rohittewari.live/)|
 |[Invoice Generator](https://github.com/rtewari056/invoice-generator)|Create Beautifully Designed Invoice that includes all of the necessary details for clean, consistent, and accurate billing practices straight from your web browser.|Under development|
 |[Portfolio Website](https://github.com/rtewari056/portfolio-website)|My portfolio website built using React JS for frontend and Sanity for backend.|Under development|
-|[EasyShare](https://github.com/rtewari056/easyshare)|File sharing web app with drag & drop.|Under development|
+|[EasyShare](https://github.com/rtewari056/easyshare)|File sharing web app with drag & drop.|[Click Here](https://easyshare.rohittewari.live/)|
 
 <br>
 
@@ -93,3 +93,5 @@
       <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" alt="Most Used Language" />
     </a>
 </div>
+  
+![](https://komarev.com/ghpvc/?username=rtewari056&label=PROFILE+VIEWS&color=blueviolet)
