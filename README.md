@@ -75,7 +75,7 @@
 |Open Source Program/Organization|Duration|Role|PR Link|
 |:------------------------------:|:------:|:--:|:-----:|
 |[Social Summer Of Code](https://ssoc.devfolio.co/)|Jun 10 - Oct 1, 2022|Contributor|[Click Here](https://devfolio.co/projects/webeginner-and-zerooctave-projects-5c2a)|
-|[Hacktoberfest](https://hacktoberfest.com/)|Oct 1 - Oct 31, 2022|Contributor|[Click Here](https://hacktoberfest.com/)|
+|[Hacktoberfest](https://hacktoberfest.com/)|Oct 1 - Oct 31, 2022|Contributor|[Click Here](https://docs.google.com/document/d/13iDJfLLEHuNeNoU7KKZFp3R0BsOPvPfL-EK94eiF6u8/edit?usp=sharing)|
 |[Hacksquad](https://www.hacksquad.dev/)|Oct 1 - Oct 31, 2022|Contributor|[Click Here](https://www.hacksquad.dev/)|
 
 <br>
