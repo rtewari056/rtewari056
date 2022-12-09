@@ -64,9 +64,9 @@
 |Project Name|Description|Link|
 |------------|-----------|----|
 |[BitChat](https://github.com/rtewari056/bitchat)|A chat app built using MERN stack.|[Click Here](https://bitchat.rohittewari.live/)|
-|[Invoice Generator](https://github.com/rtewari056/invoice-generator)|Create Beautifully Designed Invoice that includes all of the necessary details for clean, consistent, and accurate billing practices straight from your web browser.|Under development|
 |[Portfolio Website](https://github.com/rtewari056/portfolio-website)|My portfolio website built using React JS for frontend and Sanity for backend.|Under development|
 |[EasyShare](https://github.com/rtewari056/easyshare)|File sharing web app with drag & drop.|[Click Here](https://easyshare.rohittewari.live/)|
+|[advanced-node-authentication](https://github.com/rtewari056/advanced-node-authentication)|Advanced Node JS authentication workflow with password reset.|Under development|
 
 <br>
 
