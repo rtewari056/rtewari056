@@ -15,7 +15,7 @@
 
 - 📫 Please email via **rtewari056@gmail.com** to reach me.
 
-- 📝 See my [Resume](https://drive.google.com/file/d/1GAxqGnp0-Bj1yeTC8EV2TDWX98GZEd0i/view) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1ipdrjz9NCq-2pNehVtuw18R8Zwq6PE_p/view) to get more info.
 
 <br>
 
@@ -64,9 +64,9 @@
 |Project Name|Description|Link|
 |------------|-----------|----|
 |[BitChat](https://github.com/rtewari056/bitchat)|A chat app built using MERN stack.|[Click Here](https://bitchat.rohittewari.live/)|
-|[Portfolio Website](https://github.com/rtewari056/portfolio-website)|My portfolio website built using React JS for frontend and Sanity for backend.|Under development|
+|[Portfolio Website](https://github.com/rtewari056/portfolio-website)|My portfolio website built using React JS for frontend and Sanity for backend.|[Click Here](https://rohittewari.live/)|
 |[EasyShare](https://github.com/rtewari056/easyshare)|File sharing web app with drag & drop.|[Click Here](https://easyshare.rohittewari.live/)|
-|[advanced-node-authentication](https://github.com/rtewari056/advanced-node-authentication)|Advanced Node JS authentication workflow with password reset.|Under development|
+|[MERN Stack Authentication Boilerplate](https://github.com/rtewari056/advanced-node-authentication)|Advanced Node JS authentication workflow with password reset.|[Click Here](https://mernauth.rohittewari.live/)|
 
 <br>
 
