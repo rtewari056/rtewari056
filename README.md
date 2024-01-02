@@ -84,7 +84,7 @@
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rtewari056&show_icons=true&theme=radical" alt="GitHub Stats" />
+        <img width="46%" src="https://github-readme-stats.vercel.app/api?username=rtewari056&show_icons=true&theme=radical" alt="GitHub Stats" />
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
       <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rtewari056&layout=compact&theme=radical" alt="Streak Stats" />
